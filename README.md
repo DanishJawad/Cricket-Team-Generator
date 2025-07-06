@@ -1,4 +1,4 @@
-# 🏏 Cricket Team Generator
+# 🏏Prime Selection System (Cricket Team Generator)
 
 A desktop JavaFX application that helps users build the best possible cricket playing XI based on player roles and performance statistics. Built as an academic project to apply Java fundamentals, OOP, file handling, and basic GUI design.
 
